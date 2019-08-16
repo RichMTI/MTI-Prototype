@@ -1,0 +1,1235 @@
+
+@font-face {
+                          font-family: "TrebuchetMS";
+                          src: url('../fonts/Trebuchet MS.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Prime-Regular";
+                          src: url('../fonts/Prime-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Prime-Light";
+                          src: url('../fonts/Prime-Light.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "TrebuchetMS-Bold";
+                          src: url('../fonts/Trebuchet MS Bold.ttf') format("truetype");
+                        }
+                        
+.a1440 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2270px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a1440 .homeheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 380px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .mtilogo1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 118px;
+  width               : 457px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .system2660914960720 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 380px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.76;
+}
+.a1440 .homeheader .greyswoosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 253px;
+  height              : 127px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 380px;
+  width               : 686px;
+  position            : absolute;
+  margin              : 0;
+  left                : 754px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .aboutus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 869px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .faq1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 980px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .mlm1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .members1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1019px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .contactus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1089px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 321px;
+  height              : 37px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1002px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .group2 .becomemember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 29px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.a1440 .homeheader .group2 .becomemember:hover {
+  transform           : scale(1.2);
+}
+.a1440 .homeheader .group2 .becomemember .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 158px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .group2 .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .homeheader .group2 .becomeamember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .homeheader .theinvestorsnetw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 168px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 962px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(221, 221, 221, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.a1440 .homeheader .opportunity {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 201px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(253, 132, 9, 1.0);
+  text-align          : left;
+  line-height         : 58.0px;
+}
+.a1440 .homeheader .theopportunityall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 341px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a1440 .darkblueswoosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 118px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .blueswoosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 694px;
+  height              : 118px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 414px;
+  height              : 293px;
+  width               : 522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.a1440 .mtiisdifferent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 418px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 857px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.a1440 .wearebothatradin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 473px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 857px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.a1440 .bitcoin3368650960720 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 820px;
+  height              : 146px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 907px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .weusebitcoinallb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : auto;
+  width               : 546px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(253, 132, 9, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a1440 .weusebitcoinallb .span1 {
+  line-height         : 28.0px;
+}
+.a1440 .weusebitcoinallb .span2 {
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 28.0px;
+}
+.a1440 .weusebitcoinallb .span3 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.a1440 .norecruitingisnec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1862px;
+  height              : auto;
+  width               : 848px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(229, 15, 15, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.a1440 .norecruitingisnec .span1 {
+  
+}
+.a1440 .norecruitingisnec .span2 {
+  color               : rgba(0, 0, 0, 1.0);
+}
+.a1440 .nopackages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1368px;
+  height              : 128px;
+  width               : 796px;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .nopackages .infinity1837437960720 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 127px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .nopackages .nopackagesinmtit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 524px;
+  position            : absolute;
+  margin              : 0;
+  left                : 273px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(253, 132, 9, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a1440 .nopackages .nopackagesinmtit .span1 {
+  line-height         : 28.0px;
+}
+.a1440 .nopackages .nopackagesinmtit .span2 {
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 28.0px;
+}
+.a1440 .nopackages .nopackagesinmtit .span3 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.a1440 .howdoesitwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1528px;
+  height              : auto;
+  width               : 524px;
+  position            : absolute;
+  margin              : 0;
+  left                : 451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(1, 34, 77, 1.0);
+  text-align          : center;
+  line-height         : 43.0px;
+}
+.a1440 .buysellorders {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 866px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .buysellorders .recbuysell {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .buysellorders .pick12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .buysellorders .onadailybasisyo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.a1440 .buysellorders .automatedtrading {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 97px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.a1440 .createaccount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .createaccount .reccreate {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .createaccount .pick4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .createaccount .tobecomeamembero {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.a1440 .createaccount .createyouraccount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 97px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.a1440 .control {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 988px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 866px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .control .reccontrol {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .control .pick17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .control .youarefreetodepo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.a1440 .control .control1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.a1440 .compounding {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 988px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 578px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .compounding .reccompounding {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .compounding .pick28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .compounding .compoundingisdescr {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 7.78%;
+  bottom              : 2.96%;
+  height              : 47.04%;
+  width               : 83.70%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.a1440 .compounding .compounding1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34.81%;
+  height              : 10.74%;
+  width               : 83.70%;
+  position            : absolute;
+  margin              : 0;
+  left                : 7.41%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.a1440 .samedaytrading {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 988px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .samedaytrading .rectrading {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .samedaytrading .samedaytrading1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.a1440 .samedaytrading .samedaytrading1 .span1 {
+  
+}
+.a1440 .samedaytrading .samedaytrading1 .span2 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  color               : rgba(253, 132, 9, 1.0);
+}
+.a1440 .samedaytrading .newaccountsstartt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.a1440 .samedaytrading .pick29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .fundaccount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 578px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .fundaccount .reccompoundingcopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .fundaccount .pick28copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .fundaccount .mtiworkswithbitco {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.a1440 .fundaccount .fundyouraccount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 97px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.a1440 .a123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 72px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 478px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 72px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 776px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : 72px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1049px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 1933px;
+  height              : 337px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .mtilogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1964px;
+  height              : 93px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .poweredbymirrortr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2226px;
+  height              : auto;
+  width               : 442px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.a1440 .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1881px;
+  height              : 36px;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 866px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .supportemail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2104px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.a1440 .screenshot20190816at163210 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2104px;
+  height              : 27px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1440 .aboutus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1994px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1050px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .faq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : auto;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1083px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .mlm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2026px;
+  height              : auto;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1080px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .members {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2088px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1051px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a1440 .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2119px;
+  height              : auto;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1038px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

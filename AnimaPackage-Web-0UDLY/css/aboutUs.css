@@ -1,0 +1,637 @@
+
+@font-face {
+                          font-family: "TrebuchetMS";
+                          src: url('../fonts/Trebuchet MS.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Prime-Regular";
+                          src: url('../fonts/Prime-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "Prime-Light";
+                          src: url('../fonts/Prime-Light.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "TrebuchetMS-Bold";
+                          src: url('../fonts/Trebuchet MS Bold.ttf') format("truetype");
+                        }
+                        
+.aboutus {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1446px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.aboutus .aboutus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 197px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 447px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(253, 132, 9, 1.0);
+  text-align          : left;
+  line-height         : 58.0px;
+}
+.aboutus .a35295523101567279678992747823895172957077504n {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 401px;
+  height              : 287px;
+  width               : 308px;
+  position            : absolute;
+  margin              : 0;
+  left                : 310px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .mirrortradinginter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 401px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 700px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(253, 132, 9, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.aboutus .mirrortradinginter .span1 {
+  line-height         : 28.0px;
+}
+.aboutus .mirrortradinginter .span2 {
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 28.0px;
+}
+.aboutus .mirrortradinginter .span3 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.aboutus .visiontobecomethe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 840px;
+  height              : auto;
+  width               : 746px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(1, 34, 77, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.aboutus .visiontobecomethe .span1 {
+  line-height         : 43.0px;
+}
+.aboutus .visiontobecomethe .span2 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 21.0px;
+}
+.aboutus .goaltocreatesusta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 716px;
+  height              : auto;
+  width               : 746px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(1, 34, 77, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.aboutus .goaltocreatesusta .span1 {
+  line-height         : 43.0px;
+}
+.aboutus .goaltocreatesusta .span2 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 21.0px;
+}
+.aboutus .missiontocreatelocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 964px;
+  height              : auto;
+  width               : 583px;
+  position            : absolute;
+  margin              : 0;
+  left                : 429px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(1, 34, 77, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.aboutus .missiontocreatelocopy .span1 {
+  line-height         : 43.0px;
+}
+.aboutus .missiontocreatelocopy .span2 {
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  line-height         : 21.0px;
+}
+.aboutus .mtilogocopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 118px;
+  width               : 457px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .system2660914960720copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 380px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.76;
+}
+.aboutus .greyswooshcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 253px;
+  height              : 127px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .rectanglecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 380px;
+  width               : 686px;
+  position            : absolute;
+  margin              : 0;
+  left                : 754px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .mlm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 934px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .homecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 883px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .faqcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 980px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .memberscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1019px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .contactuscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1089px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 321px;
+  height              : 37px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1002px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .group2copy .becomemember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 29px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.aboutus .group2copy .becomemember:hover {
+  transform           : scale(1.2);
+}
+.aboutus .group2copy .becomemember .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 158px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .group2copy .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .group2copy .becomeamember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .theinvestorsnetwcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 168px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 962px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(221, 221, 221, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.aboutus .theopportunityallcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 341px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Prime-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.aboutus .rectanglecopy101 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 1109px;
+  height              : 337px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .mtilogocopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1140px;
+  height              : 93px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .supportemailcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1280px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.aboutus .screenshot20190816at163210copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1280px;
+  height              : 27px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutus .mlm1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1204px;
+  height              : auto;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1072px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.aboutus .faqcopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1233px;
+  height              : auto;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1083px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .homecopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1173px;
+  height              : auto;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1074px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .memberscopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1264px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1051px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.aboutus .contactuscopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1295px;
+  height              : auto;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1038px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "TrebuchetMS-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
